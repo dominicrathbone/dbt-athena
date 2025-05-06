@@ -99,6 +99,7 @@ RELATION_TYPE_MAP = {
     "view": TableType.VIEW,
     "cte": TableType.CTE,
     "materializedview": TableType.MATERIALIZED_VIEW,
+    "customer": TableType.TABLE
 }
 
 
